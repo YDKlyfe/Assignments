@@ -1,3 +1,21 @@
+/* Design an algorithm to find the weighted average of six test scores and the weighted average of six assignment scores and then get the master average between the two weighted averages.
+The six test scores and their respective weights are given in the following format: 
+
+75  0.10
+95  0.20
+85  0.25
+55  0.25
+65  0.10 
+70  0.10
+The six assignment scores and their respective weights are given in the following format: 
+
+55  0.05
+65  0.10
+65  0.15
+60  0.25
+55  0.25 
+50  0.20
+*/
 
 public class WeightedAverage {
 
